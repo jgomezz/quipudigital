@@ -28,4 +28,4 @@ quipu.screen.setup(width=0.99, height=0.99)
 
 quipu.draw()
 ```
-<img  src="quipu.png">
+<img  width="75%" src="quipu.png">
