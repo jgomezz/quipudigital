@@ -15,11 +15,13 @@ IDX_SUM_UNI     = 4
 
 class Quipu :
 
-    def __init__(self, numbers , title ="Quipu") :
-        
+
+    def __init__(self, numbers , title ="Quipu", x0 = -350, y0=80) :        
         self.numbers = numbers
         self.screen = turtle.Screen()
         self.screen.title(title)
+        self.x0 = x0
+        self.y0 = y0
         # Turn off animation, set delay to 0
         turtle.tracer(0, 0)  
         # register images
@@ -42,8 +44,8 @@ class Quipu :
         _sum = sum(self.numbers)
         print(_sum)
 
-        x = -350
-        y =  80 # 30
+        x = self.x0 #-350
+        y = self.y0 # 80 # 30
 
         image_turtle0 = turtle.Turtle()
         image_turtle0.shape(get_image_path("end-knot.gif"))  
