@@ -28,4 +28,4 @@ quipu.screen.setup(width=0.99, height=0.99)
 
 quipu.draw()
 ```
-<img width="202" alt="Small quipu with five pendant cords" src="quipu.png">
+<img  src="quipu.png">
