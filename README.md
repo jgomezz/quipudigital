@@ -28,5 +28,5 @@ quipu.screen.setup(width=0.59, height=0.99)
 quipu.draw()
 ```
 <p align="center">
-    <img  width="75%" src="quipu.png">
+    <img  width="75%" src="https://raw.githubusercontent.com/jgomezz/quipudigital/main/quipu.png">
 </p>
