@@ -28,12 +28,6 @@ quipu.screen.setup(width=0.99, height=0.99)
 
 quipu.draw()
 ```
-<style>
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
-
-<img  class="center" width="75%" src="quipu.png">
+<p align="center">
+    <img  width="75%" src="quipu.png">
+</p>
