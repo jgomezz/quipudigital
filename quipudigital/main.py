@@ -15,7 +15,6 @@ IDX_SUM_UNI     = 4
 
 class Quipu :
 
-
     def __init__(self, numbers , title ="Quipu", x0 = -350, y0=80) :        
         self.numbers = numbers
         self.screen = turtle.Screen()
