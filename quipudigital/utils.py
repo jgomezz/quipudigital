@@ -53,5 +53,5 @@ def register_image(screen):
 
 def get_image_path(image_name):
     base_path = Path(__file__).parent
-    image_path = base_path / "assets" / image_name
+    image_path = base_path /  "../assets" / image_name
     return str(image_path)
