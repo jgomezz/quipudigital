@@ -1,5 +1,5 @@
 .DS_Store
-quipudigital/__pzcache__
-dist
 build
-#quipudigital.egg-info
+dist
+quipudigital/__pzcache__
+quipudigital.egg-info
