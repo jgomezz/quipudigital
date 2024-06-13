@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='quipudigital',
-    version='0.1.1',
+    version='0.1.2',
     package_data={'mathlib': ['assets/*.*']},  # Include all files in the assets folder
     packages=find_packages(),
     author='jgomezz',
