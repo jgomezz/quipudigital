@@ -16,7 +16,6 @@ Un ejemplo de como usar la biblioteca
 
 ```
 import quipudigital.main as qd
-
 ```
 
 ```
