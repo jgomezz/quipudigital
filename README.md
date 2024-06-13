@@ -5,9 +5,10 @@ Una biblioteca de visualización de Quipus con Python
 # Estructura del Proyecto
 
 ```
-|--assets/        <-- archivos GIF para construir un quipu
-|--quipudigital/  <-- Archivos de python
-|--setup.py       <-- Define el Python build
+|--quipudigital/        <-- Archivos de python
+|     |--assets/        <-- archivos GIF para construir un quipu
+|
+|--setup.py             <-- Define el Python build
 ```
 
 # Uso
