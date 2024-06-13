@@ -1,6 +1,6 @@
 # Quipudigital
 
-Una biblioteca de visualización para Python
+Una biblioteca de visualización de Quipus con Python
 
 # Estrcutura del Proyecto
 
