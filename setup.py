@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='quipudigital',
-    version='0.1.4',
+    version='0.1.5',
     package_data={'quipudigital': ['assets/*.*']},  # Include all files in the assets folder
     packages=find_packages(),
     author='Jaime Gomez',

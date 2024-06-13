@@ -52,7 +52,7 @@ class Quipu :
         image_turtle0.goto(x-40, y)  
         image_turtle0.stamp() 
 
-        for number in self.numbers[:6]:
+        for number in self.numbers:
 
             str_number = f"{number:04}" 
 
