@@ -2,7 +2,7 @@
 
 Una biblioteca de visualización de Quipus con Python
 
-# Estrcutura del Proyecto
+# Estructura del Proyecto
 
 ```
 |--assets/        <-- archivos GIF para construir un quipu
